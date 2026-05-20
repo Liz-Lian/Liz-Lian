@@ -26,16 +26,6 @@
 <br />
 
 <p align="center">
-  <h2>📊 GitHub Stats</h2>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liz-Lian&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-</p>
-
-<br />
-
-<p align="center">
   <b>Thanks for following! ✨</b>
 </p>
 
